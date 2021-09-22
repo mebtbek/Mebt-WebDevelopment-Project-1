@@ -1,0 +1,85 @@
+.overall {
+    background: rgb(214, 237, 248);
+    padding-left: 20px;
+    
+}
+.carousel-item p, .content p, .market p, .name-group p {
+    text-indent: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.carousel-inner div img, .content div img,.New-content div img, .industry div img {
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.carousel-item img{
+    padding-bottom: 50;
+}
+ 
+.carousel-item h2, .content h5, .market h5 {
+    text-align: center;
+}
+.container-fluid a  {
+    
+    padding-left: 75px;
+    padding-right: 75px;
+}
+.container-fluid, .container {
+    display:flex;
+}
+.container div {
+    flex:1;
+}
+.comparison-lists {
+    padding-left: 100px;
+}
+.developer h5 {
+    padding-left: 100px;
+}
+
+.close {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.name-group {
+    border: 0.1px solid black;
+    flex:1;
+}
+ .phone {
+    flex:4;
+    
+}
+.list-group-item, .form-control, .form-select, .name-group{
+    background-color: rgb(230, 245, 202);
+}
+.close div {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.close div img{
+    align-content: center;
+}
+.name-group p, .form-check option, .mb-3 label {
+    /* text-align: justify ; */
+    font-weight: bold;
+}
+.change, .combine {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.change p{
+    flex:3
+}
+.change img{
+    flex:2
+}
+.combine div img{
+    float:left;
+    padding-left:100px;
+}
+.list-unstyled{
+    float:right;
+    padding-right: 200px;
+}
